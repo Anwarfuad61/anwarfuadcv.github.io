@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://kampusmerdeka.kemdikbud.go.id/program/magang/detail"><img src="https://binus.ac.id/malang/wp-content/uploads/2020/08/internship-blog-post-image@2x-640x274.png" alt="" width="500"></a>
+  <a href="https://anwarfuad61.github.io/anwarfuadcv.github.io/"><img src="https://binus.ac.id/malang/wp-content/uploads/2020/08/internship-blog-post-image@2x-640x274.png" alt="" width="500"></a>
   <br>
   Portofolio
   <br>
@@ -71,10 +71,9 @@ You can [download](https://github.com/Anwarfuad61/Aplikasi-Absensi-dan-Kegiatan-
 
 ## Credits
 
-This software uses the following open source packages:
+This framework uses the following open source packages:
 
 - [PHP](https://www.w3schools.com/php/)
-- [Mysql](https://www.mysql.com/)
 - [Javascript](https://www.w3schools.com/js/)
 
 ## Related
